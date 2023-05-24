@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayberk</h1>
 
-# 💫 About Me:
+# About Me:
 I'm Senior Security Engineer
 
 
